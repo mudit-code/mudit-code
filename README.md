@@ -17,6 +17,17 @@
 
 <br />
 
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudit-code/mudit-code/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mudit-code/mudit-code/output/snake.svg" alt="snake animation" />
+  </picture>
+</div>
+
+<br />
+
 ### 👨🏻‍💻 About Me
 
 - 🎓 B.Tech CSE @ **Kanpur Institute of Technology** — graduating 2027
@@ -49,17 +60,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mudit-code&layout=compact&hide_border=true&theme=dark&bg_color=00000000" />
     <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mudit-code&layout=compact&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=444444&bg_color=00000000" />
-  </picture>
-</div>
-
-<br />
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudit-code/mudit-code/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/mudit-code/mudit-code/output/snake.svg" alt="snake animation" />
   </picture>
 </div>
 
