@@ -9,50 +9,58 @@
   </picture>
 </a>
 
+<br />
+<br />
+<img src="https://komarev.com/ghpvc/?username=mudit-code&color=1F3864&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 <br />
 
-### About
+### 👨🏻‍💻 About Me
 
-- 🎓 B.Tech CSE @ Kanpur Institute of Technology — graduating 2027
-- 🏆 Smart India Hackathon 2025 — National Finalist, Top 5 of 500+ teams
-- 🛠️ Shipped 4 full-stack products end-to-end — DB design to deployed UI
-- 📈 Currently strengthening core Java, DSA, and system design fundamentals
+- 🎓 B.Tech CSE @ **Kanpur Institute of Technology** — graduating 2027
+- 🏆 **Smart India Hackathon 2025** — National Finalist, Top 5 of 500+ teams
+- 🛠️ Shipped **4 full-stack products** end-to-end — DB design to deployed UI
+- 📈 Currently strengthening core **Java**, **DSA**, and **system design** fundamentals
 - 🌐 Portfolio: [muditcodes.tech](https://muditcodes.tech/)
 
 <br />
 
-### Stack
+### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,nextjs,nodejs,express,postgres,prisma,tailwind,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,nextjs,nodejs,express,postgres,prisma,tailwind,git&theme=light" />
 </div>
 
 <br />
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mudit-code&show_icons=true&hide_border=true&theme=dark&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mudit-code&show_icons=true&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=444444&bg_color=00000000" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mudit-code&hide_border=true&theme=dark&background=00000000" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mudit-code&hide_border=true&ring=1F3864&fire=1F3864&currStreakLabel=1F3864&background=00000000" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=mudit-code&show_icons=true&hide_border=true&theme=dark&bg_color=00000000" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=mudit-code&show_icons=true&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=444444&bg_color=00000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mudit-code&hide_border=true&theme=dark&background=00000000" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mudit-code&hide_border=true&ring=1F3864&fire=1F3864&currStreakLabel=1F3864&background=00000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mudit-code&layout=compact&hide_border=true&theme=dark&bg_color=00000000" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mudit-code&layout=compact&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=444444&bg_color=00000000" />
+  </picture>
 </div>
 
 <br />
 
-### Contribution Graph
+### 🐍 Contribution Graph
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudit-code/mudit-code/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/mudit-code/mudit-code/output/snake.svg" alt="snake animation" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudit-code/mudit-code/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mudit-code/mudit-code/output/snake.svg" alt="snake animation" />
+  </picture>
 </div>
 
 <br />
